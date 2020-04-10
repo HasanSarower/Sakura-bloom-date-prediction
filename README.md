@@ -1,2 +1,26 @@
-# Sakura
-In a year, sakura trees basically go through 4 phases: energy production, hibernation, growth, and of course flowering. In this challenge, the basic mechanism by which the sakura reach their eventual bloom-date has been outlined. I've considered building a bloom-date prediction model for the case of sakura in Tokyo. 
+Sakura
+Description of Located Files:
+========================
+
+Python Skill Test and Neural Network
+
+
+---------------------------------
+1. File Name: Sakura.ipynb
+
+Description: Jupyter Notebook Report
+(Contains Source Code and Output)
+---------------------------------
+---------------------------------
+2. File Name: tokyo.csv
+
+Description: Cherry Blossom(Sakura)
+Bloom Dates and Environment 
+conditions  of last 57 years.
+---------------------------------
+---------------------------------
+3. File Name: BloomDates.csv
+
+Description: Explicit Bloom Dates of
+Sakura for the last 57 years.
+---------------------------------
