@@ -11,7 +11,6 @@ Python Skill Test and Neural Network
 Description: Jupyter Notebook Report
 (Contains Source Code and Output)
 ---------------------------------
----------------------------------
 2. File Name: tokyo.csv
 
 Description: Cherry Blossom(Sakura)
